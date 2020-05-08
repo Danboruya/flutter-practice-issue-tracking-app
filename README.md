@@ -1,6 +1,22 @@
-# issuetracking
+# flutter-practice-issue-tracking-app
 
-A new Flutter application.
+This project is referring to following sites. 
+* [Flutter入門 - 簡単なアプリを作ってUI宣言やホットリロードなど便利機能の使い方を理解しよう - エンジニアHub｜若手Webエンジニアのキャリアを考える！](https://employment.en-japan.com/engineerhub/entry/2019/08/06/103000)
+
+## Description
+
+A new Flutter application.  
+This app can track the GitHub issues. 
+Current available feature is displaying Issue title of Flutter repository.
+In the future, we add the following function to this application.
+
+* Add to bookmark
+* Add other GitHub repositories
+* etc...
+
+## LICENSE
+
+This software is released under the Apache License 2.0, see LICENSE.
 
 ## Getting Started
 
